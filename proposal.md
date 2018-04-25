@@ -2,6 +2,10 @@
 
 ## Introduction
 
+* 自製無人自走車引導系統
+* 增加記憶能力
+* 增加遠端更改路線的功能
+
 
 ## Design specification
 * Input
