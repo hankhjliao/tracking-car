@@ -8,7 +8,7 @@
 * Performance specifications: capacity, speed, or related quantities (how good will be your design?).
 
 ## Implementation details
-* Component list (software and hardware).  
+* Component list (software and hardware).
   1. BOE BOT Car  
   2. Xbee  
   3. 紅外線循跡模組  
@@ -18,9 +18,13 @@
 * Hardware schematic.  
   
 * Software flowchart. 
-
+![](http://gitlab.larc-nthu.net/106061209/midterm/raw/master/Schematic.png)
 * Expected issues and challenges for the implementation.  
-
+  1. 紅外線循跡模組無法使用
+  2. BOE BOT Car 不依照軌跡行走
+  3. GUI 無法顯示 BOE BOT Car 行走路線
+  4. 無法儲存行走路線並回放行走的路線
+  5. 畫在電腦端的軌跡無法傳給BOE BOT Car
 
 ## Score components
 1. 紅外線循跡模組可以讀到正確的訊號
