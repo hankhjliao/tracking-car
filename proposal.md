@@ -16,9 +16,8 @@
   5. Qt4  
 
 * Hardware schematic.  
-  
-* Software flowchart. 
-![](http://gitlab.larc-nthu.net/106061209/midterm/raw/master/Schematic.png)
+![](http://gitlab.larc-nthu.net/106061209/midterm/raw/master/Schematic.png)  
+
 * Expected issues and challenges for the implementation.  
   1. 紅外線循跡模組無法使用
   2. BOE BOT Car 不依照軌跡行走
