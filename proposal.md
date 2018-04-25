@@ -4,8 +4,14 @@
 
 
 ## Design specification
-* The function of your design (what are the inputs and outputs?).
-* Performance specifications: capacity, speed, or related quantities (how good will be your design?).
+* Input
+  * IR Sensor
+  * Magnetometer
+* Output
+  * BOE BOT Car movement
+  * Computer Application
+
+
 
 ## Implementation details
 * Component list (software and hardware).
