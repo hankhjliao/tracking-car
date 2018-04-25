@@ -8,12 +8,12 @@
 * Performance specifications: capacity, speed, or related quantities (how good will be your design?).
 
 ## Implementation details
-* Component list (software and hardware).
-1. BOE BOT Car  
-2. Xbee  
-3. 紅外線循跡模組  
-4. Python  
-5. Qt4  
+* Component list (software and hardware).  
+  1. BOE BOT Car  
+  2. Xbee  
+  3. 紅外線循跡模組  
+  4. Python  
+  5. Qt4  
 
 * Hardware schematic.  
   
