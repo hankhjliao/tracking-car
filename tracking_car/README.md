@@ -21,7 +21,7 @@
 `$ cp ../features/unsupported/rpc/* .`
 
 
-7. Install PyQt5:  
+7. Install PyQt5.  
 `$ pip3 install pyqt5`
 
 
