@@ -2,8 +2,11 @@
 #include "parallax.h"
 #include "bbcar.h"
 #include "bbcar_rpc.h"
+#include "uLCD_4DGL.h"
+
 //sudo mbed compile -m K64F -t GCC_ARM -f
 Ticker IRSensor;
+uLCD_4DGL uLCD(D1, D0, D2);
 DigitalOut led1(LED1);
 DigitalOut led2(LED2);
 DigitalIn pin8(D8);
@@ -63,6 +66,14 @@ int main() {
     int s = 0;
     bbcar_init(pin11, pin12);
     FXOS8700CQ_enable();
+    uLCD.color(BLUE);
+    uLCD.text_width(2);
+    uLCD.text_height(2);
+    uLCD.printf("\n106061209\n");
+    uLCD.circle(65,80,30,WHITE);
+    uLCD.line(65,80,65,50,WHITE);
+    uLCD.line(65,80,39,95,WHITE);
+    uLCD.line(65,80,91,95,WHITE);
     IRSensor.attach(&IR, 0.1);
     while (1) {
         while(xbee.readable()) {
