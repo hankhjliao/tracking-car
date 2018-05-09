@@ -23,7 +23,7 @@
   2. Xbee  
   3. 紅外線循跡模組  
   4. Python  
-  5. Qt4  
+  5. Qt5  
 
 * Hardware schematic.  
 ![](http://gitlab.larc-nthu.net/106061209/midterm/raw/master/Schematic.png)  
@@ -48,3 +48,5 @@ https://tutorials.webduino.io/zh-tw/docs/useful/example/toycar-line-following.ht
 http://epaper.gotop.com.tw/pdf/AEH003200.pdf  
 https://sites.google.com/site/studyarduino/04mblock/03mblock-xun-ji-che  
 http://sinocgtchen.blogspot.tw/2013/05/motoduinoarduino-l293d-ir-tracker-sensor.html  
+https://www.cnblogs.com/PyLearn/p/7689170.html  
+https://blog.digilentinc.com/how-to-convert-magnetometer-data-into-compass-heading/
