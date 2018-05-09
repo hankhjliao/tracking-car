@@ -2,7 +2,7 @@
 
 ## Before Execution
 
-1. Before adding a library, we need to install an required package mercurial.  
+1. Before adding "4DGL-uLCD-SE" library, we need to install an required package mercurial.  
 `$ sudo apt install mercurial`
 
 2. Add "4DGL-uLCD-SE" library.  
