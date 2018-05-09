@@ -24,6 +24,8 @@
 7. Install PyQt5.  
 `$ pip3 install pyqt5`
 
+8. Compile and flash the program.  
+`$ sudo mbed compile -m K64F -t GCC_ARM -f`
 
 ## Execution
 
