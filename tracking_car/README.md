@@ -19,6 +19,7 @@
 	3. Assemble the uLCD. [Instruction](http://www1.ee.nthu.edu.tw/ee240500/mbed-lab-4-liquid-crystal-displays.html#color-lcd-display-ulcd-144g2-ar)
 	4. Connect other device according to below instruction.  
          uLCD:  
+
          Pin|I/O  
          :---:|:---:  
          VCC|Xbee VCC, both IR sensor VCC (Red)  
@@ -29,6 +30,7 @@
          D10|Right IR sensor signal (White)  
          D11|Left continuous servos signal (White)  
          D12|Right continuous servos signal (White)  
+         
 2. Connect two Xbee. [Instruction](http://www1.ee.nthu.edu.tw/ee240500/mbed-lab-9-wireless-communication-xbee.html#test-and-configure-xbee-with-screen)
 
 3. Create new mbed project.  
