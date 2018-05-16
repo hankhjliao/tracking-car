@@ -31,13 +31,13 @@
          D12|Right continuous servos signal (White)  
 2. Connect two Xbee. [Instruction](http://www1.ee.nthu.edu.tw/ee240500/mbed-lab-9-wireless-communication-xbee.html#test-and-configure-xbee-with-screen)
 
-3. Create new mbed project.
+3. Create new mbed project.  
 `$ mbed new TrackingCar`
 
-4. Go to the directory.
+4. Go to the directory.  
 `$ cd TrackingCar`
 
-5. Copy the all the file in this project into the directory.
+5. Copy the all the file in this project into the directory.  
 
 6. Before adding "4DGL-uLCD-SE" library, we need to install an required package mercurial.  
 `$ sudo apt install mercurial`
@@ -58,10 +58,10 @@
 `$ cd mbed-os/drivers`  
 `$ cp ../features/unsupported/rpc/* .`
 
-12. Install GNU Compiler Suit for Ubuntu.
+12. Install GNU Compiler Suit for Ubuntu.  
 `$sudo apt install build-essencitial -y`
 
-13. Install pip3.
+13. Install pip3.  
 `$sudo apt install python3-pip -y`
 
 14. Install PyQt5.  
