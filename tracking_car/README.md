@@ -18,7 +18,6 @@
 	2. Put the uLCD onto the circuit board of the BOE BOT Car.
 	3. Assemble the uLCD. [*Instruction*](http://www1.ee.nthu.edu.tw/ee240500/mbed-lab-4-liquid-crystal-displays.html#color-lcd-display-ulcd-144g2-ar)
 	4. Connect other device according to below instruction.  
-         uLCD:  
 
          Pin|I/O  
          :---:|:---:  
