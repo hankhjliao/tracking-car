@@ -41,7 +41,7 @@
 5. Copy the all the source codes of this project into the directory.  
 
 6. Before adding "4DGL-uLCD-SE" library, we need to install an required package mercurial.  
-`$ sudo apt install mercurial`
+`$ sudo apt install mercurial -y`
 
 7. Add "4DGL-uLCD-SE" library.  
 `$ mbed add https://os.mbed.com/users/4180_1/code/4DGL-uLCD-SE/`
