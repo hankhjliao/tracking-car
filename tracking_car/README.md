@@ -39,7 +39,7 @@
 4. Go to the directory.  
 `$ cd TrackingCar`
 
-5. Copy the all the source codes in this project into the directory.  
+5. Copy the all the source codes of this project into the directory.  
 
 6. Before adding "4DGL-uLCD-SE" library, we need to install an required package mercurial.  
 `$ sudo apt install mercurial`
