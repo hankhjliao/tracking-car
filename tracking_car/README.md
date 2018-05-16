@@ -61,13 +61,13 @@
 `$ cp ../features/unsupported/rpc/* .`
 
 12. Install GNU Compiler Suit for Ubuntu.  
-`$sudo apt install build-essencitial -y`
+`$ sudo apt install build-essencitial -y`
 
 13. Install pip3.  
-`$sudo apt install python3-pip -y`
+`$ sudo apt install python3-pip -y`
 
 14. Install PyQt5.  
-`$sudo -H pip3 install pyqt5`
+`$ sudo -H pip3 install pyqt5`
 
 15. Compile and flash the program.  
 `$ sudo mbed compile -m K64F -t GCC_ARM -f`
