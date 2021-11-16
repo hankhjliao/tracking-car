@@ -14,9 +14,9 @@
 ## Preparation
 
 1. Connect the device.
-	1. Assemble the BOE BOT Car. [*Instruction*](http://www1.ee.nthu.edu.tw/ee240500/mbed-lab-12-boe-bot-car.html#assemble-your-propeller-boe-bot)
+	1. Assemble the BOE BOT Car.
 	2. Put the uLCD onto the circuit board of the BOE BOT Car.
-	3. Assemble the uLCD. [*Instruction*](http://www1.ee.nthu.edu.tw/ee240500/mbed-lab-4-liquid-crystal-displays.html#color-lcd-display-ulcd-144g2-ar)
+	3. Assemble the uLCD.
 	4. Connect devices according to the instruction below.  
 
          Pin|I/O  
@@ -30,7 +30,7 @@
          D11|Left continuous servos signal (White)  
          D12|Right continuous servos signal (White)  
          
-2. Connect two Xbee. [*Instruction*](http://www1.ee.nthu.edu.tw/ee240500/mbed-lab-9-wireless-communication-xbee.html#test-and-configure-xbee-with-screen)
+2. Connect two Xbee.
 
 3. Create new mbed project.  
 `$ mbed new TrackingCar`
